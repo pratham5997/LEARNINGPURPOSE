@@ -9,5 +9,7 @@ public class Sample{
             System.out.print("*");  
    }  
    System.out.println("");  
-   }  
+   }
+
+   System.out.println("hello everyone....");
     }} 
